@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdzain98&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default" />
 </p>
