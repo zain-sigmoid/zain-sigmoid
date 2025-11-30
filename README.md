@@ -45,18 +45,9 @@
 
 ---
 
-## 📚 Languages Used
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-sigmoid&layout=compact&theme=default" height="170"/>
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zain-sigmoid&show_icons=true&theme=default&hide_border=false" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default&hide_border=false" height="170"/>
 </p>
 
