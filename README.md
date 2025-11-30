@@ -58,10 +58,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-sigmoid&bg_color=ffffff&color=000000&line=1f6feb&point=000000&area=true&hide_border=false" />
 </p>
 
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zain-sigmoid&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
