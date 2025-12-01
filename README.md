@@ -49,13 +49,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sigmoid&theme=default)
 
-<div align="left">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain-sigmoid&theme=default)
-</div>
-
-<div align="right">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=default&utcOffset=5)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain-sigmoid&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=default&utcOffset=5)
 
 ---
 
