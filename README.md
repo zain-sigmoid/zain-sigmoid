@@ -47,12 +47,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default&hide_border=false" height="170"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sigmoid&theme=default)
 
-<p align="right">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={zain-sigmoid}&theme={default}" height="170"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default&hide_border=false" height="170"/>
 </p>
 
 ---
