@@ -51,7 +51,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default&hide_border=false" height="170"/>
 </p>
 
+<p align="right">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={zain-sigmoid}&theme={default}" height="170"/>
+</p>
+
 ---
+
 
 ## 🔥 Contribution Graph  
 <p align="center">
