@@ -49,15 +49,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sigmoid&theme=default)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-sigmoid&theme=default&hide_border=false" height="170"/>
-</p>
+<div align="left">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain-sigmoid&theme=default)
+</div>
+
+<div align="right">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=default&utcOffset=5)
+</div>
 
 ---
-
-
-## 🔥 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-sigmoid&bg_color=ffffff&color=000000&line=1f6feb&point=000000&area=true&hide_border=false" />
-</p>
 
