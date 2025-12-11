@@ -47,10 +47,13 @@
 
 ## 📈 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sigmoid&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sigmoid&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain-sigmoid&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=default&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zain-sigmoid&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zain-sigmoid&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain-sigmoid&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=algolia&utcOffset=8)
 
 ---
 
