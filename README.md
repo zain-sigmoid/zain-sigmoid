@@ -56,4 +56,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain-sigmoid&theme=algolia&utcOffset=8)
 
 ---
-![mohdzain98 streak badge](https://github-readme-streak-stats.herokuapp.com?user=mohdzain98&theme=default)
+![mohdzain98 streak badge](https://github-readme-streak-stats.herokuapp.com?user=zain-sigmoid&theme=default)
